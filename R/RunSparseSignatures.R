@@ -196,3 +196,4 @@ RunSparseSignatures <-
     invisible(list("signature" = extractedSignatures,
                    "exposure" = exposureCounts))
   }
+}
